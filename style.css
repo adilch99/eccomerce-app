@@ -4,7 +4,6 @@
 
 
 body {
-  overflow: hidden;
   height: 100vh;
   display: flex;
   align-items: center;
@@ -16,7 +15,6 @@ body {
 }
 
 .paper {
-  overflow: hidden;
   background-image: url("https://i0.wp.com/textures.world/wp-content/uploads/2018/10/2-Millimeter-Paper-Background-copy.jpg?ssl=1");
   background-size: 500px;
   background-position: center center;
